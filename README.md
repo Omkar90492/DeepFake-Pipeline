@@ -27,6 +27,5 @@ A deepfake voice synthesis and detection pipeline featuring RVC (Retrieval-based
 - [Tortoise TTS GitHub](https://github.com/neonbjb/tortoise-tts)
 - [RVC GitHub](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
-## ✍️ Authors
-Omkar Shinde, Om Patil, Samar Naik
+
 
