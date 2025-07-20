@@ -79,6 +79,12 @@ python scripts/generate_voice.py --text "Hello, world!"
 ## 📈 Output Image
 ![Output](images/output.png)
 
+<audio controls>
+  <source src="jsir.wav" type="audio/wav">
+  Your browser does not support the audio tag.
+</audio>
+
+
 
 
 ---
