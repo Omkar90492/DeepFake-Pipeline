@@ -7,15 +7,12 @@ The DeepFake project explores modern techniques in synthetic voice replication u
 ---
 
 ## ⚙️ Features
-Text-to-speech synthesis using AI
 
-Real-time voice cloning
-
-Basic GUI or CLI interface (if applicable)
-
-Analysis of deep learning models used in voice generation
-
-Overview of ethical implications
+- Text-to-speech synthesis using AI
+- Real-time voice cloning
+- Basic GUI or CLI interface (if applicable)
+- Analysis of deep learning models used in voice generation
+- Overview of ethical implications
 
 ---
 
@@ -107,10 +104,13 @@ python scripts/generate_voice.py --text "Hello, world!"
 
 ## ✅ 📦 Prerequisites
 
-Python installed
-pip / conda environment
-Audio libraries: librosa, pyaudio, scipy
-GPU (optional but recommended)
+- Python installed
+  
+- pip / conda environment
+  
+- Audio libraries: librosa, pyaudio, scipy
+  
+- GPU (optional but recommended)
 
 ---
 
