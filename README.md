@@ -19,13 +19,13 @@ The DeepFake project explores modern techniques in synthetic voice replication u
 📁 Project Structure
 -------------------
 DeepFake/
-│
-├── models/              # Pre-trained models and training scripts
-├── data/                # Sample voice datasets
-├── scripts/             # Training and synthesis scripts
-├── outputs/             # Generated voice samples
-├── docs/                # Report and references
-└── README.md            # Project documentation
+
+- models/              # Pre-trained models and training scripts
+- data/                # Sample voice datasets
+- scripts/             # Training and synthesis scripts
+- outputs/             # Generated voice samples
+- docs/                # Report and references
+- README.md            # Project documentation
 
   ---
 
@@ -90,7 +90,7 @@ python scripts/generate_voice.py --text "Hello, world!"
 
 ---
 
-##🚀 Quick Tips
+## 🚀 Quick Tips
 -------------
 - Use high-quality training datasets for better voice realism
 
@@ -122,7 +122,9 @@ The DeepFake project demonstrates how advanced AI can replicate human speech con
 
 ## ✅ 📌 Key outcomes
 
-Understanding of how voice deepfakes are built
-Implementation of a basic deepfake audio generation system
-Awareness of ethical and security risks associated with voice synthesis
+- Understanding of how voice deepfakes are built
+  
+- Implementation of a basic deepfake audio generation system
+  
+- Awareness of ethical and security risks associated with voice synthesis
 
