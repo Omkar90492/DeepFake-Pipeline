@@ -1,5 +1,5 @@
-📄 DeepFake Voice Replication Project
-🧾 Project Description
+## 📄 DeepFake Voice Replication Project
+
 The DeepFake project explores modern techniques in synthetic voice replication using deep learning. It focuses on how artificial intelligence can generate realistic voice clips mimicking human speech, raising important ethical and technical challenges. The aim is to understand how voice deepfakes are created, used, and potentially misused in real-world applications.
 
 
