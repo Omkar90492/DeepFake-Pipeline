@@ -76,7 +76,7 @@ python scripts/generate_voice.py --text "Hello, world!"
 
 ## 📌 Results
 
-## 📈 Accuracy Chart
+## 📈 Output Image
 ![Output](images/output.png)
 
 
