@@ -77,16 +77,9 @@ python scripts/generate_voice.py --text "Hello, world!"
 ## 📌 Results
 
 ## 📈 Accuracy Chart
-![Accuracy](images/accuracy_comparison.png)
+![Output](images/output.png)
 
-## 🧪 Confusion Matrix - XGBoost
-![XGBoost](images/confusion_matrix_xgboost.png)
 
-## 🌲 Confusion Matrix - Random Forest
-![RandomForest](images/confusion_matrix_randomforest.png)
-
-## 💻 Confusion Matrix - SVC
-![SVC](images/confusion_matrix_svc.png)
 
 ---
 
