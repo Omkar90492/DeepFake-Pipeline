@@ -80,7 +80,7 @@ python scripts/generate_voice.py --text "Hello, world!"
 ![Output](images/output.png)
 
 
-## 📈 Download Audio File
+## 📈 Download Audio File By Clicking View Raw
 🎧 [Click here to listen to the audio](jsir.wav)
 
 
